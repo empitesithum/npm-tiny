@@ -24,4 +24,3 @@ tiny('So much space!');
 tiny(123);
 //=> Uncaught TypeError: tiny expects a string!
 ```
-
